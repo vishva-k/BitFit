@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a0eS9OY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![a0eS9OY - Imgur](https://github.com/vishva-k/BitFit/assets/108424734/7203874b-0834-45cf-bf97-2d689d29fee3)
 
 
 GIF created with LiceCAP
